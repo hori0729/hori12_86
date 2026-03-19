@@ -2,11 +2,21 @@
 
 🇨🇱 Chile | 🔐 Cybersecurity Specialist | 💻 Developer & Automation
 
+---
+
+### 🌐 Language / Idioma
+
+[🇪🇸 Español](#-hola-soy-hori12_86) | [🇬🇧 English](#-hi-im-hori12_86)
+
+---
+
+## 🇪🇸 Español
+
 Especialista en ciberseguridad con experiencia en pentesting, informática forense, desarrollo de exploits, creación de herramientas de seguridad y administración de sistemas. Enfocado en proteger infraestructuras, automatizar procesos, analizar amenazas y construir soluciones de seguridad desde cero.
 
 ---
 
-## 🐧 Sistemas Operativos de Seguridad
+### 🐧 Sistemas Operativos de Seguridad
 
 | S.O | Descripción |
 | --- | --- |
@@ -18,9 +28,9 @@ Administración avanzada de sistemas operativos Linux y Windows Server: hardenin
 
 ---
 
-## 🛠️ Arsenal de Herramientas
+### 🛠️ Arsenal de Herramientas
 
-### 🔴 Reconocimiento & Escaneo
+#### 🔴 Reconocimiento & Escaneo
 
 | Herramienta | Uso |
 | --- | --- |
@@ -31,7 +41,7 @@ Administración avanzada de sistemas operativos Linux y Windows Server: hardenin
 | **Recon-ng** | Framework de reconocimiento y OSINT |
 | **Amass** | Enumeración de subdominios y mapeo de superficie de ataque |
 
-### 🟠 Explotación & Post-Explotación
+#### 🟠 Explotación & Post-Explotación
 
 | Herramienta | Uso |
 | --- | --- |
@@ -43,7 +53,7 @@ Administración avanzada de sistemas operativos Linux y Windows Server: hardenin
 | **Hashcat** | Cracking de hashes con GPU |
 | **AutoSploit** | Explotación automatizada de hosts remotos |
 
-### 🔵 Análisis de Red & Forense
+#### 🔵 Análisis de Red & Forense
 
 | Herramienta | Uso |
 | --- | --- |
@@ -54,7 +64,7 @@ Administración avanzada de sistemas operativos Linux y Windows Server: hardenin
 
 ---
 
-## 🧨 Desarrollo de Exploits & Herramientas
+### 🧨 Desarrollo de Exploits & Herramientas
 
 Creación de exploits personalizados y herramientas ofensivas/defensivas desde cero:
 
@@ -64,7 +74,7 @@ Creación de exploits personalizados y herramientas ofensivas/defensivas desde c
 
 ---
 
-## 🛡️ Análisis & Mitigación de Amenazas
+### 🛡️ Análisis & Mitigación de Amenazas
 
 - 🔍 **Análisis de Vulnerabilidades** — Identificación, clasificación y priorización de vulnerabilidades en sistemas y aplicaciones
 - 🚨 **Respuesta a Incidentes** — Detección, contención, erradicación y recuperación ante ataques
@@ -73,7 +83,7 @@ Creación de exploits personalizados y herramientas ofensivas/defensivas desde c
 
 ---
 
-## 💻 Lenguajes de Programación
+### 💻 Lenguajes de Programación
 
 | Lenguaje | Uso |
 | --- | --- |
@@ -86,7 +96,7 @@ Creación de exploits personalizados y herramientas ofensivas/defensivas desde c
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 | Plataforma | Uso |
 | --- | --- |
@@ -95,7 +105,7 @@ Creación de exploits personalizados y herramientas ofensivas/defensivas desde c
 
 ---
 
-## 🚀 ¿Qué hago?
+### 🚀 ¿Qué hago?
 
 **Ofensivo:** Pruebas de penetración en redes y aplicaciones web. Escaneo y explotación de vulnerabilidades. Desarrollo de exploits y herramientas de ataque personalizadas. Auditorías de seguridad.
 
@@ -103,13 +113,123 @@ Creación de exploits personalizados y herramientas ofensivas/defensivas desde c
 
 **Desarrollo:** Creación de herramientas de ciberseguridad a medida. Automatización de tareas de seguridad y administración. Scripts para reconocimiento, explotación y reporting. Desarrollo de exploits y PoC.
 
----
-
 > 🔐 Siempre en constante aprendizaje. La ciberseguridad evoluciona todos los días y yo evoluciono con ella.
 
 ---
+---
 
-## 🌐 Redes Sociales
+## 🇬🇧 English
+
+# 👋 Hi! I'm Hori12_86
+
+🇨🇱 Chile | 🔐 Cybersecurity Specialist | 💻 Developer & Automation
+
+Cybersecurity specialist with experience in pentesting, digital forensics, exploit development, security tool creation and system administration. Focused on protecting infrastructures, automating processes, analyzing threats and building security solutions from scratch.
+
+---
+
+### 🐧 Security Operating Systems
+
+| OS | Description |
+| --- | --- |
+| **Kali Linux** | Leading distro for pentesting and security audits |
+| **Parrot Security** | Pentesting, digital forensics and anonymity |
+| **BlackArch** | Over 2800 hacking and offensive security tools |
+
+Advanced administration of Linux and Windows Server operating systems: hardening, firewall configuration, service management, security policies and infrastructure monitoring.
+
+---
+
+### 🛠️ Tools Arsenal
+
+#### 🔴 Reconnaissance & Scanning
+
+| Tool | Usage |
+| --- | --- |
+| **Nmap** | Network scanning, host, port and service discovery |
+| **Nikto** | Web server vulnerability analysis |
+| **OWASP ZAP** | Automated web application vulnerability scanning |
+| **Caido** | HTTP/HTTPS traffic interception, analysis and testing |
+| **Recon-ng** | Reconnaissance and OSINT framework |
+| **Amass** | Subdomain enumeration and attack surface mapping |
+
+#### 🟠 Exploitation & Post-Exploitation
+
+| Tool | Usage |
+| --- | --- |
+| **Metasploit** | Vulnerability exploitation and post-exploitation |
+| **Burp Suite** | Advanced web application security testing |
+| **SQLMap** | SQL injection detection and exploitation |
+| **Hydra** | Brute force attacks on network services |
+| **John the Ripper** | Password auditing and cracking |
+| **Hashcat** | GPU-powered hash cracking |
+| **AutoSploit** | Automated remote host exploitation |
+
+#### 🔵 Network Analysis & Forensics
+
+| Tool | Usage |
+| --- | --- |
+| **Wireshark** | Deep packet capture and network analysis |
+| **Volatility** | RAM forensic analysis |
+| **Autopsy** | Disk and image forensic analysis |
+| **tcpdump** | Command-line network traffic capture |
+
+---
+
+### 🧨 Exploit Development & Tool Creation
+
+Custom exploit and offensive/defensive tool development from scratch:
+
+- 🐛 **Exploit Development** — Buffer overflows, shellcoding, protection bypasses and vulnerability PoCs
+- 🎯 **Offensive Tools** — Custom scanners, fuzzers, payload generators and automation scripts
+- 🛡️ **Defensive Tools** — Intrusion detectors, log analyzers and hardening utilities
+
+---
+
+### 🛡️ Threat Analysis & Mitigation
+
+- 🔍 **Vulnerability Analysis** — Identification, classification and prioritization of vulnerabilities in systems and applications
+- 🚨 **Incident Response** — Detection, containment, eradication and recovery from attacks
+- 🔒 **Mitigation & Hardening** — Patch management, secure configuration and attack surface reduction
+- 🔎 **Digital Forensics** — Collection and preservation of digital evidence, memory analysis and traceability
+
+---
+
+### 💻 Programming Languages
+
+| Language | Usage |
+| --- | --- |
+| 🐍 **Python** | Scripting, automation, exploits and security tools |
+| 🖥️ **Bash** | Linux automation, reconnaissance scripts |
+| ⚙️ **C / C++** | Low-level development, exploits, shellcode, system tools |
+| 🌐 **JavaScript** | Web development, application analysis, XSS |
+| 🎨 **HTML / CSS** | Web layout and design |
+| 🗄️ **SQL** | Queries, database administration, injections |
+
+---
+
+### ☁️ Cloud & DevOps
+
+| Platform | Usage |
+| --- | --- |
+| ☁️ **Microsoft Azure** | Cloud services, infrastructure and cloud security |
+| 🐙 **Git & GitHub** | Version control, collaboration and CI/CD |
+
+---
+
+### 🚀 What do I do?
+
+**Offensive:** Network and web application penetration testing. Vulnerability scanning and exploitation. Custom exploit and attack tool development. Security audits.
+
+**Defensive:** Operating system and server hardening. Digital forensic analysis and incident investigation. Threat analysis and mitigation. Monitoring and attack response.
+
+**Development:** Custom cybersecurity tool creation. Security and administration task automation. Scripts for reconnaissance, exploitation and reporting. Exploit and PoC development.
+
+> 🔐 Always learning. Cybersecurity evolves every day and I evolve with it.
+
+---
+
+## 🌐 Social Media / Redes Sociales
 
 [![Instagram](https://img.shields.io/badge/Instagram-@hori12.86__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hori12.86_/)
 [![RootSite Solutions](https://img.shields.io/badge/Instagram-@rootsite__solutions-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rootsite_solutions/)
